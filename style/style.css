@@ -1,0 +1,299 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image:linear-gradient(to left,rgb(11, 11, 108),rgb(92, 169, 210));
+}
+.header {
+    background-color: rgb(0, 0, 0,0.4);
+    width: auto;
+    height: 100px;
+}
+.LogoBox{
+    width: 400px;
+    height: 100px;
+    float: left;
+
+}
+
+.nav{
+    float: right;
+    font-size: 30px;
+    padding-top: 30px;
+    margin-right: 40px;
+    
+}
+.nav a{
+    text-decoration: none;
+    padding-right: 20px;
+    color: rgb(211, 205, 205);
+    letter-spacing: 2px;
+}
+.content{
+    width: auto;
+    height: 700px;
+}
+
+.content1{
+    color:black;
+    margin-left: 100px;
+    margin-top: 100px;
+    padding-bottom: 0;
+    float: left;
+}
+.content1 h1{
+    font-size: 50px;
+}
+.content2 h1{
+    font-size: 50px;
+    margin-top: 0;
+}
+.content2{
+    width: 450px;
+    height: 300px;
+    float: right;
+    margin-right: 50px;
+    margin-top: 140px;
+
+}
+.intro{
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 0;
+}
+.lastname{
+    margin-left: 45px;
+    margin-top: 0;
+}
+.firstname{
+    margin-bottom: 0;
+}
+.fb{
+    margin-left: 40px;
+}
+.ign{
+    margin-top:0 ;
+    margin-left: 40px;
+}
+
+.imagecon{
+    float: left;
+    margin-top: 130px;
+    margin-left: 100px;
+
+}
+.imagecon img{
+    width: 450px;
+    height: 450px;
+    border-radius: 50%;
+
+}
+
+.concon{
+    margin-left: 25px;
+    width: auto;
+    height: 700px;
+    
+}
+.concon1{
+    margin-top: 100px;
+    margin-left: 100px;
+    background-color: rgb(0, 0, 0, 0.4);
+    width: 350px;
+    height: 500px;
+    text-align: center;
+    padding-top: 60px;
+    color:rgb(170, 182, 192);
+    float: left;
+}
+.concon2{
+    margin-top: 100px;
+    margin-left: 100px;
+    background-color: rgb(0, 0, 0, 0.4);
+    width: 350px;
+    height: 540px;
+    text-align: center;
+    padding-top: 20px;
+    color:rgb(170, 182, 192);
+    float: left;
+
+}
+.concon2 img{
+    width: 300px;
+    height: 500px;  
+    margin-top:10px;
+    border-radius: 10px;
+}
+
+.concon3{
+    margin-top: 100px;
+    margin-left: 100px;
+    background-color: rgb(0, 0, 0, 0.4);
+    width: 350px;
+    height: 500px;
+    padding-top: 60px;
+    color:rgb(170, 182, 192);
+    float: left;
+}
+.concon3 h1{
+    margin-left: 20px;
+    margin-top: 0;
+    background-color: rgb(71, 138, 196, 0.5);
+    width: 230px;
+}
+.concon3 p{
+    margin-left: 5px;
+}
+.who{
+    margin-bottom: 0;
+    font-weight: bold;
+}
+.asp{
+    font-weight: bold;
+}
+.eat{
+    width: 200px;
+}
+.sleep{
+    width: 100px;
+}
+.play{
+    width: 300px;
+}
+.aboutme{
+    font-size: 50px;
+}
+
+.nocnoc h1{
+    text-align: center;
+    color:rgb(170, 182, 192);
+}
+.hob{
+    font-size: 70px;
+
+}   
+.ML{
+    background-color: rgb(0, 0, 0, 0.4);
+    width: 1200px;
+    height: 600px;
+    margin-left: 150px;
+}
+.ML h1{
+    text-align: center;
+    color:rgb(170, 182, 192);
+    padding-top: 20px;
+
+}.img1 img{
+    width: 350px;
+    height: 400px;
+    margin-left: 35px;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+.noc h1{
+    text-align: center;
+    color:rgb(170, 182, 192);
+    font-size: 70px;
+}
+.img2{
+    background-color: rgb(0, 0, 0, 0.4);
+    width: 1400px;
+    height: 1350px;
+    margin-left: 50px;
+}
+.img2 img{
+    width: 400px;
+    height: 400px;
+    margin-left: 48px;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+.footer{
+    background-color: rgba(25, 25, 25, 0.5);
+    width: auto;
+    height: 50px;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+    
+    color: rgba(82, 164, 164, 0.879);
+   
+}
+.footer a{
+    text-decoration: none;
+    color: rgba(82, 164, 164, 0.879);
+
+}
+.content-container{
+    width: auto;
+    height: 700px;
+    
+}
+.com1{
+    margin-left: 200px;
+    margin-top: 100px;
+    background-color: rgb(0, 0, 0, 0.4);
+    width: 500px;
+    height: 600px;
+    border-radius: 50px;
+    float: left;
+
+    
+}
+.com1 h1{
+    font-size: 60px;
+    color:rgb(170, 182, 192);
+    text-align: center;
+    
+}
+.com1 p{
+    margin-top: 100px;
+    font-size: 20px;
+    color:rgb(170, 182, 192);
+    margin-left: 20px;
+}
+.com2{
+    float: right;
+    margin-right: 200px;
+    margin-top: 100px;
+    background-color: rgb(0, 0, 0, 0.4);
+    width: 500px;
+    height: 600px;
+    border-radius: 50px;
+   
+    
+}
+.com2 h2{
+    text-align: center;
+    font-size: 30px;
+    color:rgb(170, 182, 192) ;
+
+}
+.con-form input{
+    background-color: rgb(0, 0, 0, 0.4);
+    display: block;
+    width: 300px;
+    height: 50px;
+    background-color: none;
+    margin-top: 50px;
+    margin-left: 90px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 30px;
+    font-size: 20px;
+    color: white;
+    
+
+}
+.content-container{
+    margin-bottom: 50px;
+}
+.con-form button{
+    margin-left: 90px;
+    margin-top: 50px;
+    width: 300px;
+    border-radius: 30px;
+    height: 50px;
+    font-size: 25px;
+}
